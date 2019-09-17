@@ -3,7 +3,7 @@ experiments in note-taking
 ## usage and requirements
 ### goals/usage
 reading notes (research?), journaling/day-logging, to-do lists<br>
-user: student w adhd, basic macbook pro laptop overwhelmed by art softwares, loses stuff a lot, easily distracted, almost always abandons tasks
+user: humanities student w adhd, basic laptop with very little space, does not understand programming, loses stuff a lot, easily distracted, almost always abandons tasks
 ### requirements
 #### requirements for notes content/features
 - [ ] searchable (except for class notes requiring constant drawing)
