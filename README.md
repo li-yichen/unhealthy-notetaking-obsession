@@ -50,4 +50,4 @@ github repository | 2019/03-2019/04  | one readme file for keeping track of book
 method | active time | description | features | medium | pro | con | status
 --- | --- | --- | --- | --- | --- | --- | ---
 json | 2019/08 | .json file with "date","documentation","conclusions" for date, logs(wake up time, sleep amount, meals, things bought, medications), and conclusions (aka "life lessons" learnt) | `dated` `searchable` | `json` | organized, repeatable | `convoluted writing` | `failed`
-designed planner w classes | 2009-present | booklet-printed planner, weekly, hourly time table with time slots for classes (pencil to plan, pen to record), daily large text fields for to-do lists.| `dated` | `json` | organized, repeatable | `non-searchable` | `in use`
+designed planner w classes | 2009-present | booklet-printed planner, weekly, hourly time table with time slots for classes (pencil to plan, pen to record), daily large text fields for to-do lists.| `dated` | `json` | organized, repeatable `no-computer` | `non-searchable` | `in use`
