@@ -1,4 +1,4 @@
-# experiments-notes
+# unhealthy-notetaking-obsession
 experiments in note-taking
 ## personal usage and requirements
 ### goals/usage
@@ -7,6 +7,7 @@ user: student w adhd, loses stuff a lot, easily distracted, almost always abando
 ### requirements
 - [ ] searchable (except for class notes requiring constant drawing)
 - [ ] tagged (i.e. "adu", "social-skills") (reason: easy retrival)
+- [ ] linked (hierarchy for class notes)
 - [ ] minimal interface (reason: distraction)
   -  [ ] writes as unformatted text and reads as formatted (i.e. html) (also reason: save time used to switch formatting options by cursor)
   -  [ ] minimal signs of graphic interface, including no buttons/dropdowns (i.e. text formatting options in microsoft word or pages) and minimal color except those that serve a function (i.e. blue interface for Things)
