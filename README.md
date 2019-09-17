@@ -37,16 +37,16 @@ for use with any text-based notes (handwritten or digital)
 ## comparison of methods by purpose
 ### classes
 method | active time  | description | features | medium | pro | con | status
---- | --- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | --- | --- | ---
 numbered bifold rotated ruled paper | 2018/06-2019/06 | ruled paper used in landscape orientation for easier hand movement and drawing of arrows to earlier notes, w/ page numbers on upper right corners | `numbered` `dated` `optimal for hand movement` | `paper` | see description | easy to lose | `obsoleted`
 numbered bifold rotated ruled notebook | 2019/08-present | same as above, but harder to lose | `numbered` `dated` `optimal for hand movement` `bound` | `paper` | same as above | requires daily scanning/digitization to ensure it's not lost | `in use`
 ^pdf from above & folders & html | 2019/04-present | one folder per class, each with index.html file as well as dated .html files for section notes, also links to pdf files of lecture slides | `pdf` `linked` `dated` | `paper` `html` `folders` | html enables typing without distraction of seeing a bunch of buttons or moving cursors to click stuff (i.e. in word or pages), can display any file readable in web browser, links for easy browsing, writes as non-distracting unformatted text but reads as hierarchical and formatted | html tags `convoluted writing`, html tags not customizable (see text note table of legends), lacks: actual tags | `in use`
 ### books
 method | active time  | description | features | medium | pro | con | status
---- | --- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | --- | --- | ---
 "paper twitter" reading notes | 2019/09-present | ruled paper used in landscape orientation, cut into smaller rectangular pieces, uses above table of legends, write page number on each piece of paper, then insert into page in book | `numbered` `dated` `optimal for hand movement` | `paper` | `no-computer` | `non-searchable`, damages book spine when too many notes are inserted | `trial`
 ### journaling/logging
 method | active time | description | features | medium | pro | con | status
---- | --- | --- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | --- | --- | --- | ---
 json | 2019/08 | .json file with "date","documentation","conclusions" for date, logs(wake up time, sleep amount, meals, things bought, medications), and conclusions (aka "life lessons" learnt) | `dated` `searchable` | `json` | organized, repeatable | `convoluted writing` | `failed`
 designed planner w classes | 2009-present | booklet-printed planner, weekly, hourly time table with time slots for classes (pencil to plan, pen to record), daily large text fields for to-do lists.| `dated` | `json` | organized, repeatable | `non-searchable` | `in use`
