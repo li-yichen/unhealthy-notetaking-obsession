@@ -3,7 +3,7 @@ experiments in note-taking
 ## usage and requirements
 ### goals/usage
 reading notes (research?), journaling/day-logging, to-do lists<br>
-user: humanities student, basic laptop with very little space or gam and no gpu, does not understand programming, loses stuff a lot, easily distracted, almost always abandons tasks
+user: humanities student, basic laptop with very little storage or ram on an *antique* cpu, does not understand programming, loses stuff a lot, easily distracted, almost always abandons tasks
 ### requirements
 #### requirements for notes content/features
 - [ ] searchable (except for class notes requiring constant drawing)
