@@ -3,7 +3,7 @@ experiments in note-taking
 ## usage and requirements
 ### goals/usage
 reading notes (research?), journaling/day-logging, to-do lists<br>
-user: humanities student w adhd, basic laptop with very little space, does not understand programming, loses stuff a lot, easily distracted, almost always abandons tasks
+user: humanities student, basic laptop with very little space or gam and no gpu, does not understand programming, loses stuff a lot, easily distracted, almost always abandons tasks
 ### requirements
 #### requirements for notes content/features
 - [ ] searchable (except for class notes requiring constant drawing)
@@ -41,6 +41,7 @@ method | active time  | description | features | medium | pro | con | status
 numbered bifold rotated ruled paper | 2018/06-2019/06 | ruled paper used in landscape orientation for easier hand movement and drawing of arrows to earlier notes, w/ page numbers on upper right corners | `numbered` `dated` `optimal for hand movement` | `paper` | see description | easy to lose | `obsoleted`
 numbered bifold rotated ruled notebook | 2019/08-present | same as above, but harder to lose | `numbered` `dated` `optimal for hand movement` `bound` | `paper` | same as above | requires daily scanning/digitization to ensure it's not lost | `in use`
 ^pdf from above & folders & html | 2019/04-present | one folder per class, each with index.html file as well as dated .html files for section notes, also links to pdf files of lecture slides | `pdf` `linked` `dated` | `paper` `html` `folders` | html enables typing without distraction of seeing a bunch of buttons or moving cursors to click stuff (i.e. in word or pages), can display any file readable in web browser, links for easy browsing, writes as non-distracting unformatted text but reads as hierarchical and formatted | html tags `convoluted writing`, html tags not customizable (see text note table of legends), lacks: actual tags | `in use`
+folders containing scanned lecture notes and emacs files with org-mode, exports to html | 2019/10-present | same as above, but has tags | `pdf` `linked` `dated` | `org-mode` `emacs` `paper` `html` `folders` | finally has tags! can perform other orgmode functions also, also no longer have to painfully hand-type html elements | steep learning curve, emacs not as pretty as html | `in use`
 ### books
 method | active time  | description | features | medium | pro | con | status
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -51,3 +52,4 @@ method | active time | description | features | medium | pro | con | status
 --- | --- | --- | --- | --- | --- | --- | ---
 json | 2019/08 | .json file with "date","documentation","conclusions" for date, logs(wake up time, sleep amount, meals, things bought, medications), and conclusions (aka "life lessons" learnt) | `dated` `searchable` | `json` | organized, repeatable | `convoluted writing` | `failed`
 designed planner w classes | 2009-present | booklet-printed planner, weekly, hourly time table with time slots for classes (pencil to plan, pen to record), daily large text fields for to-do lists.| `dated` | `json` | organized, repeatable `no-computer` | `non-searchable` | `in use`
+python hourly time table generator with weather and clothes | 2020/1-present | planner that prints time table every morning via interactive survey, which includes dividing a day's task into modules (exercise, social, homework, research) and some options under modules. also contains hourly temperature and wind, and recommended clothes (based on simple if statement) | `dated` | `json` | organized, repeatable `no-computer` | code very convoluted | `in use`
