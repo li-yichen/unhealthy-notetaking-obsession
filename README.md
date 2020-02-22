@@ -54,7 +54,7 @@ method | active time | description | features | medium | pro | con | status
 json | 2019/08 | .json file with "date","documentation","conclusions" for date, logs(wake up time, sleep amount, meals, things bought, medications), and conclusions (aka "life lessons" learnt) | `dated` `searchable` | `json` | organized, repeatable | `convoluted writing` | `failed`
 designed planner w classes | 2009-present | booklet-printed planner, weekly, hourly time table with time slots for classes (pencil to plan, pen to record), daily large text fields for to-do lists.| `dated` | `json` | organized, repeatable `no-computer` | `non-searchable` | `in use`
 python hourly time table generator with weather and clothes | 2020/1-present | planner that prints time table every morning via interactive survey, which includes dividing a day's task into modules (exercise, social, homework, research) and some options under modules. also contains hourly temperature and wind, and recommended clothes (based on simple if statement) | `dated` | `json` | organized, repeatable `no-computer` | code very convoluted | `in use`
-## journal about notes
+## journal/bookmarks about notes for later reference
 ### helpful resources about emacs, lisp, orgmode (to a complete beginner)
 * [resources on the right bar of r/emacs](https://www.reddit.com/r/emacs/)
 * [Rainer König's OrgMode serie on Youtube](https://www.youtube.com/watch?v=sQS06Qjnkcc&list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE)
