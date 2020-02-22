@@ -6,6 +6,7 @@ reading notes (research?), journaling/day-logging, to-do lists<br>
 user: humanities student, basic laptop with very little storage or ram on an *antique* cpu, does not understand programming, loses stuff a lot, easily distracted, almost always abandons tasks
 ### requirements
 #### requirements for notes content/features
+- [x] everything needs to be aligned (except for paper)
 - [x] searchable (except for class notes requiring constant drawing) (all digital notes searchable)
 - [x] tagged (i.e. "adu", "social-skills") (reason: easy retrival) (update: satisfied by emacs)
 - [x] linked (hierarchy for class notes) (update: satisfied by emacs, html)
