@@ -56,5 +56,5 @@ designed planner w classes | 2009-present | booklet-printed planner, weekly, hou
 python hourly time table generator with weather and clothes | 2020/1-present | planner that prints time table every morning via interactive survey, which includes dividing a day's task into modules (exercise, social, homework, research) and some options under modules. also contains hourly temperature and wind, and recommended clothes (based on simple if statement) | `dated` | `json` | organized, repeatable `no-computer` | code very convoluted | `in use`
 ## journal about notes
 ### helpful resources about emacs, lisp, orgmode (to a complete beginner)
-[resources on the right bar of r/emacs](https://www.reddit.com/r/emacs/)
-[Rainer König's OrgMode serie on Youtube](https://www.youtube.com/watch?v=sQS06Qjnkcc&list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE)
+* [resources on the right bar of r/emacs](https://www.reddit.com/r/emacs/)
+* [Rainer König's OrgMode serie on Youtube](https://www.youtube.com/watch?v=sQS06Qjnkcc&list=PLVtKhBrRV_ZkPnBtt_TD1Cs9PJlU0IIdE)
