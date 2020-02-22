@@ -6,18 +6,18 @@ reading notes (research?), journaling/day-logging, to-do lists<br>
 user: humanities student, basic laptop with very little storage or ram on an *antique* cpu, does not understand programming, loses stuff a lot, easily distracted, almost always abandons tasks
 ### requirements
 #### requirements for notes content/features
-- [ ] searchable (except for class notes requiring constant drawing)
-- [ ] tagged (i.e. "adu", "social-skills") (reason: easy retrival)
-- [ ] linked (hierarchy for class notes)
-- [ ] minimal interface (reason: distraction)
-  -  [ ] writes as unformatted text and reads as formatted (i.e. html) (also reason: save time used to switch formatting options by cursor)
-  -  [ ] minimal signs of graphic interface, including no buttons/dropdowns (i.e. text formatting options in microsoft word or pages) and minimal color except those that serve a function (i.e. blue interface for Things)
-- [ ] does not require computer for non-computer tasks (reason: distraction)
+- [x] searchable (except for class notes requiring constant drawing) (all digital notes searchable)
+- [x] tagged (i.e. "adu", "social-skills") (reason: easy retrival) (update: satisfied by emacs)
+- [x] linked (hierarchy for class notes) (update: satisfied by emacs, html)
+- [x] minimal interface (reason: distraction) (update: satisfied by emacs)
+  -  [x] writes as unformatted text and reads as formatted (i.e. html) (also reason: save time used to switch formatting options by cursor)
+  -  [x] minimal signs of graphic interface, including no buttons/dropdowns (i.e. text formatting options in microsoft word or pages) and minimal color except those that serve a function (i.e. blue interface for Things)
+- [ ] does not require computer for non-computer tasks (reason: distraction) (update: partially satisfied by interactive/printing daily planner)
 - [ ] does not require convoluted/time-consuming upkeep once format is established (i.e. see below json attempt)(reason: just so it is actually usable)
 #### requirements for software type
-- [ ] does not die with fancy softwares & can be exported (reason: self-explanatory)
-- [ ] does not require commercial software (reason: see above, and privacy)
-- [ ] lightweight / integrates as much as possible with most useful existing stuff on my laptop / eliminates as much as possible most useless existing stuff on my laptop (reason: laptop space)
+- [x] does not die with fancy softwares & can be exported (reason: self-explanatory) (update: satisfied by emacs (which will probably exist until i die) and html)
+- [x] does not require commercial software (reason: see above, and privacy) (update: satisfied by GNU emacs)
+- [ ] lightweight / integrates as much as possible with most useful existing stuff on my laptop / eliminates as much as possible most useless existing stuff on my laptop (reason: laptop space) (update: partially satisfied by html, which saves space compared to .word or .pdf.
 ## tagging/notation methods
 ### text notes
 for use with any text-based notes (handwritten or digital)
